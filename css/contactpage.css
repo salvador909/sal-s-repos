@@ -1,0 +1,24 @@
+body{
+     background-color:blue;
+}
+.form-container {
+  width: 50%;
+  margin: 0 auto;
+  padding: 25px 0px;
+}
+
+.contact-info {
+    border-top: 2px solid #404040;
+}
+
+.info-section {
+    width: 50%;
+    
+}
+.email{
+text-align:center;
+    
+}
+.phone{
+  text-align:center;
+}
